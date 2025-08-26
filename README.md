@@ -14,4 +14,7 @@ An interactive physics project designed to demonstrate and explore fundamental p
 ## Getting Started
 1. **Clone the repository**  
 ```bash
-git clone 
+git clone https://github.com/jawadlabib/Physicsplay
+
+Contributing
+Feel free to work this project and submit pull requests. Suggestions and improvements are welcome!
